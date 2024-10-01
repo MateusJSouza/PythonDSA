@@ -1,5 +1,5 @@
 # Erro (leia a mensagem de erro)
-print('Hello)
+print('Hello')
 
 # 2. Tentativa de operação inválida
 8 + 's'
